@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +165,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Override the onOptionsItemSelected(MenuItem item) method in MainActivity.java. Intent is created to open InfoActivity.">
+      <created>1601234585276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601234585277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Override the onOptionsItemSelected(MenuItem item) method in MainActivity.java. Intent is created to open InfoActivity." />
+    <option name="LAST_COMMIT_MESSAGE" value="Override the onOptionsItemSelected(MenuItem item) method in MainActivity.java. Intent is created to open InfoActivity." />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="55" key="#com.intellij.ide.util.MemberChooser" timestamp="1601233696408">
@@ -178,22 +188,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1601224435965" />
-    <state width="1200" height="142" key="GridCell.Tab.0.bottom" timestamp="1601233714046">
+    <state x="181" y="0" key="CommitChangelistDialog2" timestamp="1601234574918">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1200" height="142" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1601233714046" />
-    <state width="1200" height="142" key="GridCell.Tab.0.center" timestamp="1601233714046">
+    <state x="181" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1601234574918" />
+    <state width="1200" height="142" key="GridCell.Tab.0.bottom" timestamp="1601234928255">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1200" height="142" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1601233714046" />
-    <state width="1200" height="142" key="GridCell.Tab.0.left" timestamp="1601233714046">
+    <state width="1200" height="142" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1601234928255" />
+    <state width="1200" height="142" key="GridCell.Tab.0.center" timestamp="1601234928255">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1200" height="142" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1601233714046" />
-    <state width="1200" height="142" key="GridCell.Tab.0.right" timestamp="1601233714046">
+    <state width="1200" height="142" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1601234928255" />
+    <state width="1200" height="142" key="GridCell.Tab.0.left" timestamp="1601234928255">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1200" height="142" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1601233714046" />
+    <state width="1200" height="142" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1601234928255" />
+    <state width="1200" height="142" key="GridCell.Tab.0.right" timestamp="1601234928255">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1200" height="142" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1601234928255" />
     <state x="110" y="120" width="1060" height="450" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601226895020">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
